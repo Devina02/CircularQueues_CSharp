@@ -118,7 +118,11 @@ namespace CircularQueues_CSharp
                                 q.insert(num);
                             }
                             break;
-
+                        case '2':
+                            {
+                                q.remove();
+                            }
+                            break;
                     }
                 }
                 
