@@ -6,10 +6,5 @@ using System.Threading.Tasks;
 
 namespace CircularQueues_CSharp
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-        }
-    }
+   
 }
